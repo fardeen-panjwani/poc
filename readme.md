@@ -17,3 +17,6 @@
   -specialities
     -value (string)
 ```
+
+# Script to load data
+to load data into the database(specialities, message...), use adminScripts' individual Python scripts.
